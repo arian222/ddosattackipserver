@@ -108,7 +108,7 @@ Metodă: UDP
 
 ## Suport 💬
 Pentru suport și întrebări, contactați ALECS Security Labs:
-- Email: contact@alecs-security.com
+- Email: alecsalecs021@gmail.com
 - Website: www.alecs-security.com
 
 ## Licență 📄
